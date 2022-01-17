@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = herman.loosli@gmail.com
+	name = Herman Ernst Loosli
